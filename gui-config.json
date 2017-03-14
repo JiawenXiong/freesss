@@ -1,0 +1,84 @@
+{
+  "configs": [
+    {
+      "server": "104.128.237.85",
+      "server_port": 9000,
+      "password": "nobey",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "2602:ffc5:20::2:65a7",
+      "server_port": 8002,
+      "password": "nobey",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "45.32.52.73",
+      "server_port": 62668,
+      "password": "520520520",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "202.5.17.148",
+      "server_port": 10912,
+      "password": "520520520",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "64.137.175.249",
+      "server_port": 10912,
+      "password": "520520520",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "153.125.239.143",
+      "server_port": 31431,
+      "password": "123456",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "153.125.239.147",
+      "server_port": 31150,
+      "password": "123456",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    }
+  ],
+  "strategy": "com.shadowsocks.strategy.ha",
+  "index": -1,
+  "global": false,
+  "enabled": false,
+  "shareOverLan": true,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "logViewer": {
+    "fontName": "Consolas",
+    "fontSize": 8.25,
+    "bgColor": "Black",
+    "textColor": "White",
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "width": 600,
+    "height": 400,
+    "top": 369,
+    "left": 901
+  }
+}
